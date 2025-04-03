@@ -31,13 +31,17 @@ The dataset used for this project contains restaurant data, including:
 
 **Source:** [Kaggle - Restaurant Data](https://www.kaggle.com/datasets/parthaade/restaurant-performance-analysis)
 
-  ## 📸 Power BI Screenshots
+## 📂 Presentation
+For a detailed understanding of the analysis, refer to the PowerPoint presentation:
+- **PPT File:** `ppt/Restaurant_Performance_Analysis_PPT.pdf
+
+## 📸 Power BI Screenshots
 The following screenshots showcase the Power BI dashboards used for data analysis:
 - **Dashboard Overview:** `PowerBI_Screenshots/dashboard.png`
 - **Detailed Report:** `PowerBI_Screenshots/report.png`
 - **Insights & Findings:** `PowerBI_Screenshots/insights.png`
 
-  # 💻 Technology:
+# 💻 Technology:
 - #### Languages:
   - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 - #### ML/DL:
@@ -55,7 +59,7 @@ The following screenshots showcase the Power BI dashboards used for data analysi
   - ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
   - ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
  
-## 📂 Repository Structure
+## 🏛️ Repository Structure
 ```
 Restaurant-Performance-Analysis/
 │── README.md
