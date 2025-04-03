@@ -32,15 +32,23 @@ The dataset used for this project contains restaurant data, including:
 **Source:** [Kaggle - Restaurant Data](https://www.kaggle.com/datasets/parthaade/restaurant-performance-analysis)
   
 ## 📸 Project Image
-Below is a sample image from the Power BI dashboard:
+**Level 1: Task 1 - Top3 Cuisines:**
+![Dashboard Preview 1](https://github.com/Parthadee/Restaurant-reviews-Analysis/blob/54233862b4d26eec25eb2c5f12601b4d9fb161bf/Level1/Task1/picture1.png)
 
-![Dashboard Preview 1](path_to_your_image.png)
-![Dashboard Preview 2](path_to_your_image.png)
-![Dashboard Preview 3](path_to_your_image.png)
-![Dashboard Preview 3](path_to_your_image.png)
-![Dashboard Preview 4](path_to_your_image.png)
-![Dashboard Preview 5](path_to_your_image.png)
-![Dashboard Preview 6](path_to_your_image.png)
+**Level 1: Task 1 - Top3 Cuisines and Their Percentage:**
+![Dashboard Preview 2](https://github.com/Parthadee/Restaurant-reviews-Analysis/blob/54233862b4d26eec25eb2c5f12601b4d9fb161bf/Level1/Task1/picture2.png)
+
+**Level 1: Task 2 - Average Top 10 Restaurants by Cities:**
+![Dashboard Preview 3](https://github.com/Parthadee/Restaurant-reviews-Analysis/blob/54233862b4d26eec25eb2c5f12601b4d9fb161bf/Level1/Task%202/picture1.png)
+
+**Level 1: Task 2 - Average Top 10 with most Restaurants:**
+![Dashboard Preview 3](https://github.com/Parthadee/Restaurant-reviews-Analysis/blob/54233862b4d26eec25eb2c5f12601b4d9fb161bf/Level1/Task%202/picture2.png)
+
+**Level 1: Task 3 - Distribution of Price Ranges among Restaurants:**
+![Dashboard Preview 4](https://github.com/Parthadee/Restaurant-reviews-Analysis/blob/54233862b4d26eec25eb2c5f12601b4d9fb161bf/Level1/Task%203/picture1.png)
+
+**Level 1: Task 3 - Percentage of Restaurants in each price range:**
+![Dashboard Preview 5](https://github.com/Parthadee/Restaurant-reviews-Analysis/blob/54233862b4d26eec25eb2c5f12601b4d9fb161bf/Level1/Task%203/picture2.png)
 
   # 💻 Technology:
 - #### Languages:
@@ -59,15 +67,6 @@ Below is a sample image from the Power BI dashboard:
   - ![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
   - ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
   - ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-### Installation
-Clone the repository and install dependencies:
-```bash
-$ git clone https://github.com/yourusername/Data-Analysis-Internship.git
-$ cd Data-Analysis-Internship
-$ pip install -r requirements.txt
-```s
-```
 
 ## 📜 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
