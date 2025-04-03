@@ -1,8 +1,8 @@
 # Kaggle - Datasets
 <img src="https://github.com/Parthadee/Restaurant-reviews-Analysis/blob/1b12c8204549aad8e3a1a68c866240944f39a0bb/Datasets/dataset.png"/>
 
-##📊 Overview of Dataset
-The dataset used for this Cognifyz Data Analysis Internship - Level 3 project contains various data points relevant to restaurant performance, customer behavior, and financial metrics. Below is a summary of its key components:
+## 📊 Overview of Dataset
+The dataset contains various data points relevant to restaurant performance, customer behavior, and financial metrics. Below is a summary of its key components:
 
 **1. Sales Data**
 - Includes historical revenue records of restaurants.
