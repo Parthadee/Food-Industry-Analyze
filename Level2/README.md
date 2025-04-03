@@ -1,4 +1,4 @@
-# Analyzing Level 1
+# Analyzing Level 2
 <img src="https://github.com/Parthadee/Restaurant-reviews-Analysis/blob/c053851255bbc11a21d862a6b16a7b7ea4168ca5/Level2/data-analysis-skills-duties-responsibilities.jpg"/>
 
 ## 📌 Project Overview
@@ -34,6 +34,10 @@ The dataset used for this project contains restaurant data, including:
 ## 📸 Project Image
 **Level 1: Task 1 - Top3 Cuisines:**
 ![Dashboard Preview 1](https://github.com/Parthadee/Restaurant-reviews-Analysis/blob/c053851255bbc11a21d862a6b16a7b7ea4168ca5/Level2/Task%201/picture1.png)
+
+🔗 [Click here to view the interactive map](your_map_link_here)
+Below is a sample image from the Power BI dashboard showcasing Level 2 tasks:
+![Dashboard Preview](path_to_your_image.png)
 
 **Level 1: Task 1 - Top3 Cuisines and Their Percentage:**
 ![Dashboard Preview 2](https://github.com/Parthadee/Restaurant-reviews-Analysis/blob/54233862b4d26eec25eb2c5f12601b4d9fb161bf/Level1/Task1/picture2.png)
