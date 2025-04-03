@@ -1,25 +1,25 @@
-# Restaurant Performance Analysis
+# Kaggle - Datasets
+<img src="https://github.com/Parthadee/Restaurant-reviews-Analysis/blob/1b12c8204549aad8e3a1a68c866240944f39a0bb/Datasets/dataset.png"/>
 
-## 📌 Overview
-This project analyzes restaurant data to extract insights about cuisines, locations, ratings, price ranges, and online services. The project was completed as part of an internship at Cognifyz Technologies using Power BI, Python, SQL, and Excel.
+##📊 Overview of Dataset
+The dataset used for this Cognifyz Data Analysis Internship - Level 3 project contains various data points relevant to restaurant performance, customer behavior, and financial metrics. Below is a summary of its key components:
 
-## 🔍 Analysis Breakdown
-### **Level 1: Basic Analysis** ([GitHub Link](https://github.com/Parthadee/Restaurant-Performance-Analysis/tree/main/Level_1))
-- Identifying top cuisines.
-- Analyzing city-wise restaurant distribution and ratings.
-- Visualizing price range distributions.
-- Examining online delivery trends.
+**1. Sales Data**
+- Includes historical revenue records of restaurants.
+- Contains details on daily, weekly, and monthly sales trends.
+- Used for time series forecasting to predict future sales.
 
-### **Level 2: Intermediate Analysis** ([GitHub Link](https://github.com/Parthadee/Restaurant-Performance-Analysis/tree/main/Level_2))
-- Understanding restaurant rating distributions.
-- Finding common cuisine combinations.
-- Conducting geographic analysis of restaurant locations.
-- Evaluating restaurant chain performance.
+**2. Customer Data**
+- Includes customer demographics, preferences, and purchase history.
+- Used for customer segmentation to identify distinct groups of customers based on spending behavior.
 
-### **Level 3: Advanced Analysis** ([GitHub Link](https://github.com/Parthadee/Restaurant-Performance-Analysis/tree/main/Level_3))
-- Sentiment analysis of restaurant reviews.
-- Correlation between votes and ratings.
-- Impact of price range on online delivery and table booking.
+**3. Review & Sentiment Data**
+- Contains customer reviews and ratings for various restaurants.
+- Used for NLP-based sentiment analysis to understand customer satisfaction levels.
+
+**4. Pricing & Booking Data**
+- Includes restaurant price ranges, table booking availability, and online ordering options.
+- Analyzed to determine correlations between pricing and customer engagement.
 
 ## 📊 Dataset Information
 The dataset used for this project contains restaurant data, including:
@@ -30,12 +30,6 @@ The dataset used for this project contains restaurant data, including:
 - **Online delivery and table booking availability**
 
 **Source:** [Kaggle - Restaurant Data](https://www.kaggle.com/datasets/parthaade/restaurant-performance-analysis)
-
-  ## 📸 Power BI Screenshots
-The following screenshots showcase the Power BI dashboards used for data analysis:
-- **Dashboard Overview:** `PowerBI_Screenshots/dashboard.png`
-- **Detailed Report:** `PowerBI_Screenshots/report.png`
-- **Insights & Findings:** `PowerBI_Screenshots/insights.png`
 
   # 💻 Technology:
 - #### Languages:
@@ -54,47 +48,6 @@ The following screenshots showcase the Power BI dashboards used for data analysi
   - ![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
   - ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
   - ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
- 
-## 📂 Repository Structure
-```
-Restaurant-Performance-Analysis/
-│── README.md
-│── LICENSE
-│── datasets/
-│── notebooks/
-│── dashboards/
-│── reports/
-│── Level_1/
-│   ├── README.md
-│   ├── Top_Cuisines.ipynb
-│   ├── City_Analysis.ipynb
-│   ├── Price_Range_Distribution.ipynb
-│   ├── Online_Delivery.ipynb
-│── Level_2/
-│   ├── README.md
-│   ├── Restaurant_Ratings.ipynb
-│   ├── Cuisine_Combination.ipynb
-│   ├── Geographic_Analysis.ipynb
-│   ├── Restaurant_Chains.ipynb
-│── Level_3/
-│   ├── README.md
-│   ├── Restaurant_Reviews.ipynb
-│   ├── Votes_Analysis.ipynb
-│   ├── Price_Range_vs_Services.ipynb
-│── PowerBI_Screenshots/
-│   ├── dashboard.png
-│   ├── report.png
-│   ├── insights.png
-│── scripts/
-│── docs/
-```
-
-## 🛠️ Installation
-Clone the repository:
-```bash
-git clone https://github.com/Parthadee/Restaurant-Performance-Analysis.git
-cd Restaurant-Performance-Analysis
-```
 
 ## 📜 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
