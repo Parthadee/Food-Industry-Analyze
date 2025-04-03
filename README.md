@@ -3,40 +3,6 @@
 ## 📌 Overview
 This project analyzes restaurant data to extract insights about cuisines, locations, ratings, price ranges, and online services. The project was completed as part of an internship at Cognifyz Technologies using Power BI, Python, SQL, and Excel.
 
-## 📂 Repository Structure
-```
-Restaurant-Performance-Analysis/
-│── README.md
-│── LICENSE
-│── datasets/
-│── notebooks/
-│── dashboards/
-│── reports/
-│── Level_1/
-│   ├── README.md
-│   ├── Top_Cuisines.ipynb
-│   ├── City_Analysis.ipynb
-│   ├── Price_Range_Distribution.ipynb
-│   ├── Online_Delivery.ipynb
-│── Level_2/
-│   ├── README.md
-│   ├── Restaurant_Ratings.ipynb
-│   ├── Cuisine_Combination.ipynb
-│   ├── Geographic_Analysis.ipynb
-│   ├── Restaurant_Chains.ipynb
-│── Level_3/
-│   ├── README.md
-│   ├── Restaurant_Reviews.ipynb
-│   ├── Votes_Analysis.ipynb
-│   ├── Price_Range_vs_Services.ipynb
-│── PowerBI_Screenshots/
-│   ├── dashboard.png
-│   ├── report.png
-│   ├── insights.png
-│── scripts/
-│── docs/
-```
-
 ## 🔍 Analysis Breakdown
 ### **Level 1: Basic Analysis** ([GitHub Link](https://github.com/Parthadee/Restaurant-Performance-Analysis/tree/main/Level_1))
 - Identifying top cuisines.
@@ -88,6 +54,40 @@ The following screenshots showcase the Power BI dashboards used for data analysi
   - ![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
   - ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
   - ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+ 
+## 📂 Repository Structure
+```
+Restaurant-Performance-Analysis/
+│── README.md
+│── LICENSE
+│── datasets/
+│── notebooks/
+│── dashboards/
+│── reports/
+│── Level_1/
+│   ├── README.md
+│   ├── Top_Cuisines.ipynb
+│   ├── City_Analysis.ipynb
+│   ├── Price_Range_Distribution.ipynb
+│   ├── Online_Delivery.ipynb
+│── Level_2/
+│   ├── README.md
+│   ├── Restaurant_Ratings.ipynb
+│   ├── Cuisine_Combination.ipynb
+│   ├── Geographic_Analysis.ipynb
+│   ├── Restaurant_Chains.ipynb
+│── Level_3/
+│   ├── README.md
+│   ├── Restaurant_Reviews.ipynb
+│   ├── Votes_Analysis.ipynb
+│   ├── Price_Range_vs_Services.ipynb
+│── PowerBI_Screenshots/
+│   ├── dashboard.png
+│   ├── report.png
+│   ├── insights.png
+│── scripts/
+│── docs/
+```
 
 ## 🛠️ Installation
 Clone the repository:
