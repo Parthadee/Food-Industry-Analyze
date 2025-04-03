@@ -61,6 +61,16 @@ Restaurant-Performance-Analysis/
 - Correlation between votes and ratings.
 - Impact of price range on online delivery and table booking.
 
+## 📊 Dataset Information
+The dataset used for this project contains restaurant data, including:
+- **Restaurant names and locations**
+- **Cuisines served**
+- **Price ranges and cost for two**
+- **Ratings, votes, and reviews**
+- **Online delivery and table booking availability**
+
+**Source:** [Kaggle - Restaurant Data](https://www.kaggle.com/datasets/parthaade/restaurant-performance-analysis)
+
   ## 📸 Power BI Screenshots
 The following screenshots showcase the Power BI dashboards used for data analysis:
 - **Dashboard Overview:** `PowerBI_Screenshots/dashboard.png`
