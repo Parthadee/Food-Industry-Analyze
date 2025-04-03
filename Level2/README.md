@@ -32,27 +32,17 @@ The dataset used for this project contains restaurant data, including:
 **Source:** [Kaggle - Restaurant Data](https://www.kaggle.com/datasets/parthaade/restaurant-performance-analysis)
   
 ## 📸 Project Image
-**Level 1: Task 1 - Top3 Cuisines:**
-![Dashboard Preview 1](https://github.com/Parthadee/Restaurant-reviews-Analysis/blob/c053851255bbc11a21d862a6b16a7b7ea4168ca5/Level2/Task%201/picture1.png)
+**Level 2: Task 1 - Distribution of Aggregate Rating Among Restaurants:**
+![Dashboard Preview 1](https://github.com/Parthadee/Restaurant-reviews-Analysis/blob/6adffab7c8b403d76ce795feaf4072506a8a2b9d/Level2/Task%201/picture1.png)
 
-🔗 [Click here to view the interactive map](your_map_link_here)
-Below is a sample image from the Power BI dashboard showcasing Level 2 tasks:
-![Dashboard Preview](path_to_your_image.png)
+**Level 2: Task 2 - Restaurants with the lowest number of votes:**
+![Dashboard Preview 2](https://github.com/Parthadee/Restaurant-reviews-Analysis/blob/6adffab7c8b403d76ce795feaf4072506a8a2b9d/Level2/Task%202/d1.png)
 
-**Level 1: Task 1 - Top3 Cuisines and Their Percentage:**
-![Dashboard Preview 2](https://github.com/Parthadee/Restaurant-reviews-Analysis/blob/54233862b4d26eec25eb2c5f12601b4d9fb161bf/Level1/Task1/picture2.png)
+**Level 2: Tasks 3 - Geographic MAP 1:**
+![Dashboard Preview 2](https://github.com/Parthadee/Restaurant-reviews-Analysis/blob/6adffab7c8b403d76ce795feaf4072506a8a2b9d/Level2/Task%203/image1.png)
 
-**Level 1: Task 2 - Average Top 10 Restaurants by Cities:**
-![Dashboard Preview 3](https://github.com/Parthadee/Restaurant-reviews-Analysis/blob/54233862b4d26eec25eb2c5f12601b4d9fb161bf/Level1/Task%202/picture1.png)
-
-**Level 1: Task 2 - Average Top 10 with most Restaurants:**
-![Dashboard Preview 3](https://github.com/Parthadee/Restaurant-reviews-Analysis/blob/54233862b4d26eec25eb2c5f12601b4d9fb161bf/Level1/Task%202/picture2.png)
-
-**Level 1: Task 3 - Distribution of Price Ranges among Restaurants:**
-![Dashboard Preview 4](https://github.com/Parthadee/Restaurant-reviews-Analysis/blob/54233862b4d26eec25eb2c5f12601b4d9fb161bf/Level1/Task%203/picture1.png)
-
-**Level 1: Task 3 - Percentage of Restaurants in each price range:**
-![Dashboard Preview 5](https://github.com/Parthadee/Restaurant-reviews-Analysis/blob/54233862b4d26eec25eb2c5f12601b4d9fb161bf/Level1/Task%203/picture2.png)
+**Level 2: Tasks 3 - Geographic MAP 2:**
+![Dashboard Preview](https://github.com/Parthadee/Restaurant-reviews-Analysis/blob/6adffab7c8b403d76ce795feaf4072506a8a2b9d/Level2/Task%203/image%202.png)
 
   # 💻 Technology:
 - #### Languages:
