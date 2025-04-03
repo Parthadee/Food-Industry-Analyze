@@ -1,5 +1,5 @@
 # Data Analysis Internship - Level 1
-<img src="https://github.com/Parthadee/Restaurant-reviews-Analysis/blob/df773de0c4553cb43a29bb401eed922befcad0a5/Restaurant.jpg"/>
+<img src="https://github.com/Parthadee/Restaurant-reviews-Analysis/blob/240eb77426ac4be048703131b7470fd223c8ec7f/Level1/data-analytics-tutorial-69921091148807_l.png"/>
 
 ## 📌 Project Overview
 Welcome to the **Cognifyz Data Analysis Internship**! This repository contains the solutions and insights derived from Level 1 tasks. The objective of this level is to analyze restaurant data and extract meaningful patterns using data analytics techniques.
