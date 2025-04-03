@@ -33,16 +33,16 @@ The dataset used for this project contains restaurant data, including:
 
 ![Dashboard Preview 1](https://github.com/Parthadee/Restaurant-reviews-Analysis/blob/40c5d17d77cacccc65544dcf77f7ae0564e9a189/Level%203/Task%201/picture1.png)
 
-**Level 1: Task 1 - Most Common Negative Keywords:**
+**Level 3: Task 1 - Most Common Negative Keywords:**
 ![Dashboard Preview 2](https://github.com/Parthadee/Restaurant-reviews-Analysis/blob/40c5d17d77cacccc65544dcf77f7ae0564e9a189/Level%203/Task%201/picture2.png)
 
-**Level 1: Task 1 - Average Reviews Length by Rating:**
+**Level 3: Task 1 - Average Reviews Length by Rating:**
 ![Dashboard Preview 3](https://github.com/Parthadee/Restaurant-reviews-Analysis/blob/40c5d17d77cacccc65544dcf77f7ae0564e9a189/Level%203/Task%201/picture3.png)
 
-**Level 1: Task 3 - Table Booking Availability by Price Range:**
+**Level 3: Task 3 - Table Booking Availability by Price Range:**
 ![Dashboard Preview 3](https://github.com/Parthadee/Restaurant-reviews-Analysis/blob/40c5d17d77cacccc65544dcf77f7ae0564e9a189/Level%203/Task%203/picture1.png)
 
-**Level 1: Task 3 - Online Delivery Availability by Price Range:**
+**Level 3: Task 3 - Online Delivery Availability by Price Range:**
 ![Dashboard Preview 4](https://github.com/Parthadee/Restaurant-reviews-Analysis/blob/40c5d17d77cacccc65544dcf77f7ae0564e9a189/Level%203/Task%203/picture2.png)
 
   # 💻 Technology:
