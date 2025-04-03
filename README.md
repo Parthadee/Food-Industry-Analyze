@@ -34,7 +34,7 @@ The dataset used for this project contains restaurant data, including:
 
 ## 📂 Presentation
 For a detailed understanding of the analysis, refer to the PowerPoint presentation:
-- **PPT File:** `ppt/Restaurant_Performance_Analysis_PPT.pdf
+[PPT File](https://github.com/Parthadee/Food-Industry-Analyze/blob/a36789d6208e4cf163d34271afac1fb5a58bb8e8/Restaurant%20Performance%20Analysis.pptx)
 
 ## 📸 Power BI Screenshots
 The following screenshots showcase the Power BI dashboards used for data analysis:
