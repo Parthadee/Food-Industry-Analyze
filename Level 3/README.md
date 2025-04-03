@@ -2,25 +2,20 @@
 <img src="https://github.com/Parthadee/Restaurant-reviews-Analysis/blob/c5cfd29d08103bb42fca9b98ade40ee71e78a38e/Level%203/What_is_Data_Analysis.jpg"/>
 
 ## 📌 Project Overview
-Welcome to the **Cognifyz Data Analysis Internship**! This repository contains the solutions and insights derived from Level 1 tasks. The objective of this level is to analyze restaurant data and extract meaningful patterns using data analytics techniques.
+Welcome to the **Cognifyz Data Analysis Internship - Level 3**! This level focuses on deep data analysis, forecasting, and business insights using advanced statistical methods and machine learning models.
 
-## 📊 Level 1 Tasks
-### ✅ Task 1: Top Cuisines
-- Identify the top three most common cuisines.
-- Calculate the percentage of restaurants serving each top cuisine.
+## 📊 Level 3 Tasks
+### ✅ Task 1: Sales Forecasting
+- Implement time series analysis to predict future restaurant sales.
+- Compare different forecasting models for accuracy.
 
-### ✅ Task 2: City Analysis
-- Find the city with the highest number of restaurants.
-- Compute the average rating of restaurants in each city.
-- Identify the city with the highest average rating.
+### ✅ Task 2: Customer Segmentation
+- Use clustering techniques (e.g., K-Means) to segment customers based on spending behavior.
+- Analyze key characteristics of each customer segment.
 
-### ✅ Task 3: Price Range Distribution
-- Visualize the price range distribution using histograms or bar charts.
-- Calculate the percentage of restaurants in each price range.
-
-### ✅ Task 4: Online Delivery
-- Determine the percentage of restaurants offering online delivery.
-- Compare the average ratings of restaurants with and without online delivery.
+### ✅ Task 3: Sentiment Analysis with NLP
+- Apply Natural Language Processing (NLP) to analyze customer reviews.
+- Generate insights from customer sentiment trends.
 
 ## 📊 Dataset Information
 The dataset used for this project contains restaurant data, including:
@@ -33,23 +28,20 @@ The dataset used for this project contains restaurant data, including:
 **Source:** [Kaggle - Restaurant Data](https://www.kaggle.com/datasets/parthaade/restaurant-performance-analysis)
   
 ## 📸 Project Image
-**Level 1: Task 1 - Top3 Cuisines:**
-![Dashboard Preview 1](https://github.com/Parthadee/Restaurant-reviews-Analysis/blob/54233862b4d26eec25eb2c5f12601b4d9fb161bf/Level1/Task1/picture1.png)
+**Level 3: Task 1 - Most Common Positive Keywords:**
+![Dashboard Preview 1](https://github.com/Parthadee/Restaurant-reviews-Analysis/blob/40c5d17d77cacccc65544dcf77f7ae0564e9a189/Level%203/Task%201/picture1.png)
 
-**Level 1: Task 1 - Top3 Cuisines and Their Percentage:**
-![Dashboard Preview 2](https://github.com/Parthadee/Restaurant-reviews-Analysis/blob/54233862b4d26eec25eb2c5f12601b4d9fb161bf/Level1/Task1/picture2.png)
+**Level 1: Task 1 - Most Common Negative Keywords:**
+![Dashboard Preview 2](https://github.com/Parthadee/Restaurant-reviews-Analysis/blob/40c5d17d77cacccc65544dcf77f7ae0564e9a189/Level%203/Task%201/picture2.png)
 
-**Level 1: Task 2 - Average Top 10 Restaurants by Cities:**
-![Dashboard Preview 3](https://github.com/Parthadee/Restaurant-reviews-Analysis/blob/54233862b4d26eec25eb2c5f12601b4d9fb161bf/Level1/Task%202/picture1.png)
+**Level 1: Task 1 - Average Reviews Length by Rating:**
+![Dashboard Preview 3](https://github.com/Parthadee/Restaurant-reviews-Analysis/blob/40c5d17d77cacccc65544dcf77f7ae0564e9a189/Level%203/Task%201/picture3.png)
 
-**Level 1: Task 2 - Average Top 10 with most Restaurants:**
-![Dashboard Preview 3](https://github.com/Parthadee/Restaurant-reviews-Analysis/blob/54233862b4d26eec25eb2c5f12601b4d9fb161bf/Level1/Task%202/picture2.png)
+**Level 1: Task 3 - Table Booking Availability by Price Range:**
+![Dashboard Preview 3](https://github.com/Parthadee/Restaurant-reviews-Analysis/blob/40c5d17d77cacccc65544dcf77f7ae0564e9a189/Level%203/Task%203/picture1.png)
 
-**Level 1: Task 3 - Distribution of Price Ranges among Restaurants:**
-![Dashboard Preview 4](https://github.com/Parthadee/Restaurant-reviews-Analysis/blob/54233862b4d26eec25eb2c5f12601b4d9fb161bf/Level1/Task%203/picture1.png)
-
-**Level 1: Task 3 - Percentage of Restaurants in each price range:**
-![Dashboard Preview 5](https://github.com/Parthadee/Restaurant-reviews-Analysis/blob/54233862b4d26eec25eb2c5f12601b4d9fb161bf/Level1/Task%203/picture2.png)
+**Level 1: Task 3 - Online Delivery Availability by Price Range:**
+![Dashboard Preview 4](https://github.com/Parthadee/Restaurant-reviews-Analysis/blob/40c5d17d77cacccc65544dcf77f7ae0564e9a189/Level%203/Task%203/picture2.png)
 
   # 💻 Technology:
 - #### Languages:
