@@ -1,4 +1,4 @@
-# Data Analysis Internship - Level 1
+# Analyzing - Level 1
 <img src="https://github.com/Parthadee/Restaurant-reviews-Analysis/blob/240eb77426ac4be048703131b7470fd223c8ec7f/Level1/data-analytics-tutorial-69921091148807_l.png"/>
 
 ## 📌 Project Overview
