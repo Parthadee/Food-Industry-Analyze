@@ -3,12 +3,6 @@
 ## 📌 Overview
 This project analyzes restaurant data to extract insights about cuisines, locations, ratings, price ranges, and online services. The project was completed as part of an internship at Cognifyz Technologies using Power BI, Python, SQL, and Excel.
 
-## 📊 Technologies Used
-- **Power BI** – Data visualization and reporting.
-- **Python** – Data cleaning, analysis, and automation.
-- **SQL** – Data extraction, querying, and transformation.
-- **Excel** – Data preprocessing and aggregation.
-
 ## 📂 Repository Structure
 ```
 Restaurant-Performance-Analysis/
@@ -76,6 +70,24 @@ The following screenshots showcase the Power BI dashboards used for data analysi
 - **Dashboard Overview:** `PowerBI_Screenshots/dashboard.png`
 - **Detailed Report:** `PowerBI_Screenshots/report.png`
 - **Insights & Findings:** `PowerBI_Screenshots/insights.png`
+
+  # 💻 Technology:
+- #### Languages:
+  - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- #### ML/DL:
+  - ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+  - ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+  - ![Seaborn](https://img.shields.io/badge/Seaborn-%23F7931E.svg?style=for-the-badge&logo=Seaborn&logoColor=white)
+  - ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+- #### IDE:
+  - ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+  -  ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+  - ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
+  - ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+- #### OS used for testing:
+  - ![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
+  - ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+  - ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ## 🛠️ Installation
 Clone the repository:
