@@ -1,25 +1,25 @@
-# Restaurant Performance Analysis
+# Data Analysis Internship - Level 1
 
-## 📌 Overview
-This project analyzes restaurant data to extract insights about cuisines, locations, ratings, price ranges, and online services. The project was completed as part of an internship at Cognifyz Technologies using Power BI, Python, SQL, and Excel.
+## 📌 Project Overview
+Welcome to the **Cognifyz Data Analysis Internship**! This repository contains the solutions and insights derived from Level 1 tasks. The objective of this level is to analyze restaurant data and extract meaningful patterns using data analytics techniques.
 
-## 🔍 Analysis Breakdown
-### **Level 1: Basic Analysis** ([GitHub Link](https://github.com/Parthadee/Restaurant-Performance-Analysis/tree/main/Level_1))
-- Identifying top cuisines.
-- Analyzing city-wise restaurant distribution and ratings.
-- Visualizing price range distributions.
-- Examining online delivery trends.
+## 📊 Level 1 Tasks
+### ✅ Task 1: Top Cuisines
+- Identify the top three most common cuisines.
+- Calculate the percentage of restaurants serving each top cuisine.
 
-### **Level 2: Intermediate Analysis** ([GitHub Link](https://github.com/Parthadee/Restaurant-Performance-Analysis/tree/main/Level_2))
-- Understanding restaurant rating distributions.
-- Finding common cuisine combinations.
-- Conducting geographic analysis of restaurant locations.
-- Evaluating restaurant chain performance.
+### ✅ Task 2: City Analysis
+- Find the city with the highest number of restaurants.
+- Compute the average rating of restaurants in each city.
+- Identify the city with the highest average rating.
 
-### **Level 3: Advanced Analysis** ([GitHub Link](https://github.com/Parthadee/Restaurant-Performance-Analysis/tree/main/Level_3))
-- Sentiment analysis of restaurant reviews.
-- Correlation between votes and ratings.
-- Impact of price range on online delivery and table booking.
+### ✅ Task 3: Price Range Distribution
+- Visualize the price range distribution using histograms or bar charts.
+- Calculate the percentage of restaurants in each price range.
+
+### ✅ Task 4: Online Delivery
+- Determine the percentage of restaurants offering online delivery.
+- Compare the average ratings of restaurants with and without online delivery.
 
 ## 📊 Dataset Information
 The dataset used for this project contains restaurant data, including:
@@ -28,14 +28,19 @@ The dataset used for this project contains restaurant data, including:
 - **Price ranges and cost for two**
 - **Ratings, votes, and reviews**
 - **Online delivery and table booking availability**
-
+- 
 **Source:** [Kaggle - Restaurant Data](https://www.kaggle.com/datasets/parthaade/restaurant-performance-analysis)
+  
+## 📸 Project Image
+Below is a sample image from the Power BI dashboard:
 
-  ## 📸 Power BI Screenshots
-The following screenshots showcase the Power BI dashboards used for data analysis:
-- **Dashboard Overview:** `PowerBI_Screenshots/dashboard.png`
-- **Detailed Report:** `PowerBI_Screenshots/report.png`
-- **Insights & Findings:** `PowerBI_Screenshots/insights.png`
+![Dashboard Preview 1](path_to_your_image.png)
+![Dashboard Preview 2](path_to_your_image.png)
+![Dashboard Preview 3](path_to_your_image.png)
+![Dashboard Preview 3](path_to_your_image.png)
+![Dashboard Preview 4](path_to_your_image.png)
+![Dashboard Preview 5](path_to_your_image.png)
+![Dashboard Preview 6](path_to_your_image.png)
 
   # 💻 Technology:
 - #### Languages:
@@ -54,46 +59,14 @@ The following screenshots showcase the Power BI dashboards used for data analysi
   - ![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
   - ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
   - ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
- 
-## 📂 Repository Structure
-```
-Restaurant-Performance-Analysis/
-│── README.md
-│── LICENSE
-│── datasets/
-│── notebooks/
-│── dashboards/
-│── reports/
-│── Level_1/
-│   ├── README.md
-│   ├── Top_Cuisines.ipynb
-│   ├── City_Analysis.ipynb
-│   ├── Price_Range_Distribution.ipynb
-│   ├── Online_Delivery.ipynb
-│── Level_2/
-│   ├── README.md
-│   ├── Restaurant_Ratings.ipynb
-│   ├── Cuisine_Combination.ipynb
-│   ├── Geographic_Analysis.ipynb
-│   ├── Restaurant_Chains.ipynb
-│── Level_3/
-│   ├── README.md
-│   ├── Restaurant_Reviews.ipynb
-│   ├── Votes_Analysis.ipynb
-│   ├── Price_Range_vs_Services.ipynb
-│── PowerBI_Screenshots/
-│   ├── dashboard.png
-│   ├── report.png
-│   ├── insights.png
-│── scripts/
-│── docs/
-```
 
-## 🛠️ Installation
-Clone the repository:
+### Installation
+Clone the repository and install dependencies:
 ```bash
-git clone https://github.com/Parthadee/Restaurant-Performance-Analysis.git
-cd Restaurant-Performance-Analysis
+$ git clone https://github.com/yourusername/Data-Analysis-Internship.git
+$ cd Data-Analysis-Internship
+$ pip install -r requirements.txt
+```s
 ```
 
 ## 📜 License
