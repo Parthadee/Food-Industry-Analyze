@@ -1,23 +1,23 @@
-# Restaurant Performance Analysis
+# Data-Driven Insights for the Food Industry
 <img src="https://github.com/Parthadee/Restaurant-reviews-Analysis/blob/df773de0c4553cb43a29bb401eed922befcad0a5/Restaurant.jpg"/>
 
 ## 📌 Overview
-This project analyzes restaurant data to extract insights about cuisines, locations, ratings, price ranges, and online services. The project was completed as part of an internship at Cognifyz Technologies using Power BI, Python, SQL, and Excel.
+As part of my Data Analysis Internship at Cognifyz Technologies, I worked on analyzing a dataset related to restaurant businesses to uncover meaningful insights. This project involved various data analysis tasks, including cuisine popularity analysis, city-wise restaurant performance, pricing trends, online delivery impact, and customer ratings.
 
 ## 🔍 Analysis Breakdown
-### **Level 1: Basic Analysis** ([GitHub Link](https://github.com/Parthadee/Restaurant-Performance-Analysis/tree/main/Level_1))
+### **Level 1: Basic Analysis** ([GitHub Link](https://github.com/Parthadee/Restaurant-reviews-Analysis/tree/30e00b20b3fbd3abd8201ee6432812a2ba334915/Level1))
 - Identifying top cuisines.
 - Analyzing city-wise restaurant distribution and ratings.
 - Visualizing price range distributions.
 - Examining online delivery trends.
 
-### **Level 2: Intermediate Analysis** ([GitHub Link](https://github.com/Parthadee/Restaurant-Performance-Analysis/tree/main/Level_2))
+### **Level 2: Intermediate Analysis** ([GitHub Link](https://github.com/Parthadee/Restaurant-reviews-Analysis/tree/30e00b20b3fbd3abd8201ee6432812a2ba334915/Level2))
 - Understanding restaurant rating distributions.
 - Finding common cuisine combinations.
 - Conducting geographic analysis of restaurant locations.
 - Evaluating restaurant chain performance.
 
-### **Level 3: Advanced Analysis** ([GitHub Link](https://github.com/Parthadee/Restaurant-Performance-Analysis/tree/main/Level_3))
+### **Level 3: Advanced Analysis** ([GitHub Link](https://github.com/Parthadee/Restaurant-reviews-Analysis/tree/30e00b20b3fbd3abd8201ee6432812a2ba334915/Level%203))
 - Sentiment analysis of restaurant reviews.
 - Correlation between votes and ratings.
 - Impact of price range on online delivery and table booking.
@@ -38,9 +38,16 @@ For a detailed understanding of the analysis, refer to the PowerPoint presentati
 
 ## 📸 Power BI Screenshots
 The following screenshots showcase the Power BI dashboards used for data analysis:
-- **Dashboard Overview:** `PowerBI_Screenshots/dashboard.png`
-- **Detailed Report:** `PowerBI_Screenshots/report.png`
-- **Insights & Findings:** `PowerBI_Screenshots/insights.png`
+- **Overviews**
+![Dashboard Preview 1](https://github.com/Parthadee/Restaurant-reviews-Analysis/blob/8d1ecb447075208066a56b9b58d7066dbba4abce/images/Restaurant%20Performance%20Analysis_PowerBI_page-0001.jpg)
+- **Levels & Tasks**
+![Dashboard Preview 1](https://github.com/Parthadee/Restaurant-reviews-Analysis/blob/8d1ecb447075208066a56b9b58d7066dbba4abce/images/Restaurant%20Performance%20Analysis_PowerBI_page-0002.jpg)
+- **Level - 1**
+![Dashboard Preview 1](https://github.com/Parthadee/Restaurant-reviews-Analysis/blob/8d1ecb447075208066a56b9b58d7066dbba4abce/images/Restaurant%20Performance%20Analysis_PowerBI_page-0003.jpg)
+- **Level - 2**
+![Dashboard Preview 1](https://github.com/Parthadee/Restaurant-reviews-Analysis/blob/8d1ecb447075208066a56b9b58d7066dbba4abce/images/Restaurant%20Performance%20Analysis_PowerBI_page-0004.jpg)
+- **Level - 3**
+![Dashboard Preview 1](https://github.com/Parthadee/Restaurant-reviews-Analysis/blob/8d1ecb447075208066a56b9b58d7066dbba4abce/images/Restaurant%20Performance%20Analysis_PowerBI_page-0005.jpg)
 
 # 💻 Technology:
 - #### Languages:
