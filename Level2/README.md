@@ -2,7 +2,7 @@
 <img src="https://github.com/Parthadee/Restaurant-reviews-Analysis/blob/c053851255bbc11a21d862a6b16a7b7ea4168ca5/Level2/data-analysis-skills-duties-responsibilities.jpg"/>
 
 ## 📌 Project Overview
-Level 2! This phase focuses on advanced techniques, including trend identification, correlation analysis, and predictive insights to enhance restaurant performance evaluation.
+**Level 2** - This phase focuses on advanced techniques, including trend identification, correlation analysis, and predictive insights to enhance restaurant performance evaluation.
 
 ## 📊 Level 2 Tasks
 ### ✅ Task 1: Customer Review Analysis
