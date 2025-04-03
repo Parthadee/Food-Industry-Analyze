@@ -1,4 +1,5 @@
 # Restaurant Performance Analysis
+<img src="https://github.com/Parthadee/Restaurant-reviews-Analysis/blob/df773de0c4553cb43a29bb401eed922befcad0a5/Restaurant.jpg"/>
 
 ## 📌 Overview
 This project analyzes restaurant data to extract insights about cuisines, locations, ratings, price ranges, and online services. The project was completed as part of an internship at Cognifyz Technologies using Power BI, Python, SQL, and Excel.
