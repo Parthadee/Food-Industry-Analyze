@@ -28,6 +28,7 @@ The dataset used for this project contains restaurant data, including:
 **Source:** [Kaggle - Restaurant Data](https://www.kaggle.com/datasets/parthaade/restaurant-performance-analysis)
   
 ## 📸 Project Image
+
 **Level 3: Task 1 - Most Common Positive Keywords:**
 ![Dashboard Preview 1](https://github.com/Parthadee/Restaurant-reviews-Analysis/blob/40c5d17d77cacccc65544dcf77f7ae0564e9a189/Level%203/Task%201/picture1.png)
 
