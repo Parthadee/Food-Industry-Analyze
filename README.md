@@ -103,8 +103,8 @@ Restaurant-Performance-Analysis/
 ## 🛠️ Installation
 Clone the repository:
 ```bash
-git clone https://github.com/Parthadee/Restaurant-Performance-Analysis.git
-cd Restaurant-Performance-Analysis
+git clone https://github.com/Parthadee/Food-Industry-Analyze.git
+cd Food-Industry-Analyze
 ```
 
 ## 📜 License
